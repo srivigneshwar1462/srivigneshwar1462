@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sri vigneshwar
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning Salesforce
 - 📫 How to reach me srivignesh1406@gmail.com
 
 <!---
